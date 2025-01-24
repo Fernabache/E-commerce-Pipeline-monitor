@@ -1,4 +1,4 @@
-# E-commerce-Pipeline-monitor
+
 # E-commerce Pipeline Monitor
 
 Real-time anomaly detection system for e-commerce data pipelines.
